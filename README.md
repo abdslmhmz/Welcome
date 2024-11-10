@@ -36,7 +36,7 @@ const skills = {
 
 ## 📫 How to reach me
 - LinkedIn: [Your Profile]
-- Email: your.email@example.com
+- Email: abdslmhmz@gmail.com
 - Portfolio: [Your Website]
 
 ## 📊 Weekly Development Breakdown
